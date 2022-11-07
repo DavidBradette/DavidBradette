@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBradette
 - 👀 I’m interested in contributing to the community
-- 💞️ I’m looking to collaborate on docs.microsoft.com
+
 
 
 <!---
